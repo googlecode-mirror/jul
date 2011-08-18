@@ -1,0 +1,7 @@
+* Upload the files in "system" folder to your site.
+* edit the file "inc/config.php" with you own database details.
+* Upload the file "db.sql" (which can be found in "Database") to your databse.
+
+Login details:
+username: admin
+password: 123456789
